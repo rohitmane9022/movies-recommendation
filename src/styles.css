@@ -1,0 +1,62 @@
+* {
+  background-color: white;
+  color: black;
+  /* max-width: 98%; */
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  overflow: hidden;
+}
+
+.movies {
+  display: flex;
+  justify-content: center;
+}
+
+.movies {
+  color: white;
+
+  padding: 7px;
+  margin: 5px;
+  /* border-radius: 10px; */
+  transition: all 150ms ease-in;
+  letter-spacing: 1.5px;
+}
+.btn {
+  background-color: grey;
+  border: 2px solid black;
+}
+
+.allbooks {
+  width: 100vw;
+}
+
+.allbooks ul {
+  width: 90%;
+  display: flex;
+  /* justify-content: flex-start; */
+  justify-content: center;
+  flex-direction: column;
+}
+
+button {
+  padding: 10px;
+  border-radius: 10px;
+  margin: 1rem;
+  cursor: pointer;
+  background-color: grey;
+}
+button:hover {
+  background-color: red;
+  /* padding: 2rem; */
+}
+li {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid black;
+  width: 100%;
+  margin: 1rem 0rem;
+  border-radius: 1rem;
+}
