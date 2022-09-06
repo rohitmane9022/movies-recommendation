@@ -1,2 +1,3 @@
 # movies-recommendation
-Created with CodeSandbox
+showcase my movies recommendation which i create with react 
+
